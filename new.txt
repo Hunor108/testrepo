@@ -1,8 +1,1 @@
 Gibi 
-Max 
-Bob
-<<<<<<< HEAD
-Ben
-=======
-Bear
->>>>>>> 9333ebd7cd98852d1040bde44f4a5985083ba629
