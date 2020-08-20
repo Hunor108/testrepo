@@ -1,9 +1,6 @@
 Gibi 
 Max 
 Bob
-Ben
-<<<<<<< HEAD
+BEN
 Riv
-=======
 dr
->>>>>>> 00ab2b9a5a4f7dd0121d92d8a3f39489534e501f
